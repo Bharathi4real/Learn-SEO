@@ -90,7 +90,7 @@ Keywords are terms used by searchers to find content. Effective keyword usage in
 
 [Learn more.](https://moz.com/learn/seo/what-are-keywords)
 
-## 14. Types of Keywords in SEO:
+## 14. Types of Keywords:
 The different types of keywords in SEO,
 
 [Important types](https://ahrefs.com/blog/types-of-keywords/)
