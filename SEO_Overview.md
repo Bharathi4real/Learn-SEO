@@ -4,6 +4,7 @@
 SEO (Search Engine Optimization) is the process of increasing a website’s organic search traffic by improving its visibility and ranking in search engine results. SEO can be classified into two types:
 - **Organic**: Ranked based on merit.
 - **Paid**: Ads.
+- [Know more.](https://ahrefs.com/blog/organic-marketing/)
 
 ## 2. Types of SEO:
 - **On-page SEO**: Optimizes individual web pages using keywords, meta descriptions, and other factors.
@@ -20,7 +21,7 @@ SEO (Search Engine Optimization) is the process of increasing a website’s orga
 - **Consistent Traffic**: High-ranking content can generate steady traffic over time.
 - **Builds Trust**: High Google rankings enhance customer trust.
 - **Addressing No Traffic Issues**: Many pages get no traffic due to lack of backlinks, poor topic targeting, misaligned search intent, or not being indexed by Google. Solutions include getting pages indexed, targeting relevant topics, aligning content with search intent, and building backlinks.
-- [Know more](https://ahrefs.com/blog/what-is-seo/#why-is-seo-important)
+- [Know more.](https://ahrefs.com/blog/what-is-seo/#why-is-seo-important)
 
 ## 4. Mainstream Search Engines:
 - Google
