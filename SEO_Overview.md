@@ -1,4 +1,4 @@
-# SEO Basics
+# SEO Overview
 
 ## 1. What is SEO?
 SEO (Search Engine Optimization) is the process of increasing a website’s organic search traffic by improving its visibility and ranking in search engine results. SEO can be classified into two types:
