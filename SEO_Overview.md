@@ -90,6 +90,11 @@ Keywords are terms used by searchers to find content. Effective keyword usage in
 
 [Learn more.](https://moz.com/learn/seo/what-are-keywords)
 
+## 14. SEO Traffic:
+SEO traffic is the number of visitors who come to your website from organic search results.
+
+[Learn more.](https://www.semrush.com/blog/seo-traffic-generation/)
+
 For more details, visit:
 - [Ahrefs SEO Basics](https://ahrefs.com/blog/seo-basics/#seo-fundamentals)
 - [Moz Off-site SEO](https://moz.com/learn/seo/off-site-seo)
