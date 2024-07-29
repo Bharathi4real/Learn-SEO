@@ -43,7 +43,7 @@ Web browsers are software applications that allow users to access and view websi
 ## 7. Domain Authority (DA) and Page Authority (PA):
 - **DA (Domain Authority)**: Measures the strength of an entire website.
 - **PA (Page Authority)**: Measures the strength of an individual page.
-- Note: Authority is not a ranking factor; Domain Rating (DR) is more influential in improving search engine ranking.
+- Note: Authority is not a ranking factor; [Domain Rating (DR)](https://dashthis.com/kpi-examples/domain-rating/#:~:text=A%20domain%20rating%20is%20a,and%20move%20on%20from%20there.) is more influential in improving search engine ranking.
 
 ## 8. Search Engine Spam:
 Search engine spamming, or spamdexing, involves using unethical techniques to manipulate search engine rankings and deceive users. This gives an unfair advantage over legitimate sites and misleads users.
