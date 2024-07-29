@@ -1,9 +1,11 @@
 # SEO Overview
 
 ## 1. What is SEO?
-SEO (Search Engine Optimization) is the process of increasing a website’s organic search traffic by improving its visibility and ranking in search engine results. SEO can be classified into two types:
-- **Organic**: Ranked based on merit.
-- **Paid**: Ads.
+SEO (Search Engine Optimization) is the process of increasing a website’s organic search traffic by improving it's visibility and ranking in search engine results. 
+
+SEO can be classified into two types:
+- **[Organic](https://www.semrush.com/blog/organic-seo/#why-is-organic-seo-important)**: Organic SEO, simply referred to as SEO, is the practice of growing a website’s traffic from search engines unpaid search results.
+- **[Paid SEO](https://en.wikipedia.org/wiki/Search_engine_marketing)**: Also known as Search Engine Marketing (SEM). SEM is a digital marketing practice used to increase a website’s visibility in search engines through paid advertisements and unpaid results.
   
 [Learn more.](https://ahrefs.com/blog/organic-marketing/)
 
