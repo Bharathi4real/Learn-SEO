@@ -4,7 +4,9 @@
 SEO (Search Engine Optimization) is the process of increasing a website’s organic search traffic by improving its visibility and ranking in search engine results. SEO can be classified into two types:
 - **Organic**: Ranked based on merit.
 - **Paid**: Ads.
-- [Know more.](https://ahrefs.com/blog/organic-marketing/)
+<br/>
+
+[Learn more.](https://ahrefs.com/blog/organic-marketing/)
 
 ## 2. Types of SEO:
 - **On-page SEO**: Optimizes individual web pages using keywords, meta descriptions, and other factors.
@@ -14,14 +16,22 @@ SEO (Search Engine Optimization) is the process of increasing a website’s orga
 - **E-commerce SEO**: Prioritizes optimization for queries related to selling and financial transactions.
 - **Mobile SEO**: Tailors SEO strategies for mobile devices.
 - **International SEO**: Adapts a website for international audiences, including language and regional considerations.
+- **Keyword Research**: Identifies search terms with good volume and low competition.
+- **Backlinks**: Builds authoritative links to enhance reputation and ranking.
+- **Content SEO**: Creates unique content to maintain structure and top search positions.
 - **Image SEO**: Optimizes images to improve site speed and content reach.
+<br/>
+
+[Learn more.](https://www.simplilearn.com/main-types-of-seo-techniques-in-digital-marketing-article)
 
 ## 3. Importance of SEO:
 - **Primary Traffic Driver**: Organic search is the main source of website traffic.
 - **Consistent Traffic**: High-ranking content can generate steady traffic over time.
 - **Builds Trust**: High Google rankings enhance customer trust.
 - **Addressing No Traffic Issues**: Many pages get no traffic due to lack of backlinks, poor topic targeting, misaligned search intent, or not being indexed by Google. Solutions include getting pages indexed, targeting relevant topics, aligning content with search intent, and building backlinks.
-- [Know more.](https://ahrefs.com/blog/what-is-seo/#why-is-seo-important)
+<br/>
+
+[Learn more.](https://ahrefs.com/blog/what-is-seo/#why-is-seo-important)
 
 ## 4. Mainstream Search Engines:
 - Google
@@ -30,7 +40,10 @@ SEO (Search Engine Optimization) is the process of increasing a website’s orga
 - Brave Search
 - Yandex
 - Baidu
-- [learn about how search engines work](https://ahrefs.com/blog/what-is-seo/#how-seo%20works)
+<br/>
+
+[Learn about how search engines work](https://ahrefs.com/blog/what-is-seo/#how-seo%20works)
+
 ## 5. What are Browsers?
 Web browsers are software applications that allow users to access and view websites on the internet.
 
@@ -41,41 +54,48 @@ Web browsers are software applications that allow users to access and view websi
 - Mozilla Firefox
 - Opera
 - Brave
+- etc
 
 ## 7. Domain Authority (DA) and Page Authority (PA):
-- **DA (Domain Authority)**: Measures the strength of an entire website.
-- **PA (Page Authority)**: Measures the strength of an individual page.
+- **[DA (Domain Authority)](https://moz.com/learn/seo/domain-authority)**: Measures the strength of an entire website.
+- **[PA (Page Authority)](https://moz.com/learn/seo/page-authority)**: Measures the strength of an individual page.
 - Note: Authority is not a ranking factor; [Domain Rating (DR)](https://dashthis.com/kpi-examples/domain-rating/#:~:text=A%20domain%20rating%20is%20a,and%20move%20on%20from%20there.) is more influential in improving search engine ranking.
 
 ## 8. Search Engine Spam:
 Search engine spamming, or spamdexing, involves using unethical techniques to manipulate search engine rankings and deceive users. This gives an unfair advantage over legitimate sites and misleads users.
+<br/>
+
+[Learn more.](https://en.wikipedia.org/wiki/Spamdexing)
 
 ## 9. Black Hat & Grey Hat vs. White Hat SEO:
 - **[Black Hat SEO](https://ahrefs.com/seo/glossary/black-hat-seo)**: Uses unethical practices to increase rankings, violating search engine terms. Examples include content automation, hidden text, and keyword stuffing.
 - **[White Hat SEO](https://ahrefs.com/blog/white-hat-seo/)**: Adheres to search engine guidelines, focusing on quality content, fast loading times, mobile-friendliness, and good site navigation.
 - **[Gray Hat SEO](https://ahrefs.com/seo/glossary/grey-hat-seo)**: Uses a combination of SEO methods that comply with Google Webmaster Guidelines (white hat SEO) and those that violate them (black hat methods). For example, creating quality content (white hat) and buying backlinks to it (black hat).
 
-## 10. Types of SEO Techniques:
-- **Local SEO**: Improves rankings for location-specific searches (e.g., "dentists in Nashville").
-- **Off-page SEO**: Involves strategies outside the website to improve rankings.
-- **Global SEO**: Targets a broad audience with general keywords, requiring thorough research.
-- **Keyword Research**: Identifies search terms with good volume and low competition.
-- **Backlinks**: Builds authoritative links to enhance reputation and ranking.
-- **Content SEO**: Creates unique content to maintain structure and top search positions.
-- **Image SEO**: Optimizes images for better user experience, performance, and rankings.
-
-## 11. Crawling and Indexing:
+## 10. Crawling and Indexing:
 - **Crawling**: Automated programs (web crawlers/spiders) scan web pages' content and structure.
 - **Indexing**: Stores and organizes crawled information in a database, making it searchable.
+<br/>
 
-## 12. On-page Optimization:
+[Learn more.](https://www.geeksforgeeks.org/difference-between-crawling-and-indexing-in-search-engine-optimization-seo/)
+
+## 11. On-page Optimization:
 Enhances individual web pages using keywords, meta descriptions, and other SEO elements.
+<br/>
 
-## 13. Off-page Optimization:
+[Learn more.](https://backlinko.com/on-page-seo)
+
+## 12. Off-page Optimization:
 Improves website rankings through external factors like backlinks and social signals.
+<br/>
 
-## 14. Keywords:
+[Learn more.](https://backlinko.com/off-page-seo-guide)
+
+## 13. Keywords:
 Keywords are terms used by searchers to find content. Effective keyword usage increases the chances of appearing in search engine results.
+<br/>
+
+[Learn more.](https://moz.com/learn/seo/what-are-keywords)
 
 For more details, visit:
 - [Ahrefs SEO Basics](https://ahrefs.com/blog/seo-basics/#seo-fundamentals)
