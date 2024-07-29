@@ -4,8 +4,7 @@
 SEO (Search Engine Optimization) is the process of increasing a website’s organic search traffic by improving its visibility and ranking in search engine results. SEO can be classified into two types:
 - **Organic**: Ranked based on merit.
 - **Paid**: Ads.
-<br/>
-
+  
 [Learn more.](https://ahrefs.com/blog/organic-marketing/)
 
 ## 2. Types of SEO:
@@ -20,7 +19,6 @@ SEO (Search Engine Optimization) is the process of increasing a website’s orga
 - **Backlinks**: Builds authoritative links to enhance reputation and ranking.
 - **Content SEO**: Creates unique content to maintain structure and top search positions.
 - **Image SEO**: Optimizes images to improve site speed and content reach.
-<br/>
 
 [Learn more.](https://www.simplilearn.com/main-types-of-seo-techniques-in-digital-marketing-article)
 
@@ -29,7 +27,6 @@ SEO (Search Engine Optimization) is the process of increasing a website’s orga
 - **Consistent Traffic**: High-ranking content can generate steady traffic over time.
 - **Builds Trust**: High Google rankings enhance customer trust.
 - **Addressing No Traffic Issues**: Many pages get no traffic due to lack of backlinks, poor topic targeting, misaligned search intent, or not being indexed by Google. Solutions include getting pages indexed, targeting relevant topics, aligning content with search intent, and building backlinks.
-<br/>
 
 [Learn more.](https://ahrefs.com/blog/what-is-seo/#why-is-seo-important)
 
@@ -40,7 +37,6 @@ SEO (Search Engine Optimization) is the process of increasing a website’s orga
 - Brave Search
 - Yandex
 - Baidu
-<br/>
 
 [Learn about how search engines work](https://ahrefs.com/blog/what-is-seo/#how-seo%20works)
 
@@ -63,7 +59,6 @@ Web browsers are software applications that allow users to access and view websi
 
 ## 8. Search Engine Spam:
 Search engine spamming, or spamdexing, involves using unethical techniques to manipulate search engine rankings and deceive users. This gives an unfair advantage over legitimate sites and misleads users.
-<br/>
 
 [Learn more.](https://en.wikipedia.org/wiki/Spamdexing)
 
@@ -75,25 +70,21 @@ Search engine spamming, or spamdexing, involves using unethical techniques to ma
 ## 10. Crawling and Indexing:
 - **Crawling**: Automated programs (web crawlers/spiders) scan web pages' content and structure.
 - **Indexing**: Stores and organizes crawled information in a database, making it searchable.
-<br/>
 
 [Learn more.](https://www.geeksforgeeks.org/difference-between-crawling-and-indexing-in-search-engine-optimization-seo/)
 
 ## 11. On-page Optimization:
 Enhances individual web pages using keywords, meta descriptions, and other SEO elements.
-<br/>
 
 [Learn more.](https://backlinko.com/on-page-seo)
 
 ## 12. Off-page Optimization:
 Improves website rankings through external factors like backlinks and social signals.
-<br/>
 
 [Learn more.](https://backlinko.com/off-page-seo-guide)
 
 ## 13. Keywords:
 Keywords are terms used by searchers to find content. Effective keyword usage increases the chances of appearing in search engine results.
-<br/>
 
 [Learn more.](https://moz.com/learn/seo/what-are-keywords)
 
