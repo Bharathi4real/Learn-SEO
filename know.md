@@ -101,7 +101,12 @@ In SEO, a **niche** refers to a specialized segment of a larger market that targ
 
 **Benefits**: Higher conversion rates, improved customer loyalty, and easier content marketing.
 
-E-E-A-T
+## 7. E-E-A-T
+The acronym “E-E-A-T” stands for Experience, Expertise, Authoritativeness, and Trustworthiness.
+
+<img src="https://github.com/user-attachments/assets/788fe85d-9d6a-4573-b3aa-25d3ced20d9a" width="600" height="400">
+
+Trust is the most critical component of E-E-A-T, Google says, “Because untrustworthy pages have low E-E-A-T no matter how Experienced, Expert, or Authoritative they may seem.”
 
 General things need to Know:
 URL
