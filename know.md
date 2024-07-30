@@ -108,10 +108,17 @@ The acronym “E-E-A-T” stands for Experience, Expertise, Authoritativeness, a
 
 Trust is the most critical component of E-E-A-T, Google says, “Because untrustworthy pages have low E-E-A-T no matter how Experienced, Expert, or Authoritative they may seem.”
 
-General things need to Know:
-URL
-Domain Name
-URL structure
+## 8. URL
+A URL (Uniform Resource Locator) is the address of a unique resource on the internet. It is one of the key mechanisms used by browsers to retrieve published resources, such as HTML pages, CSS documents, images, and so on.
+
+## 9. Domain Name
+ Domain name is the text address of a website, such as www.example.com, that internet users type into a browser window to reach a particular website. 
+ 
+This text address is translated into an IP address by the Domain Name System (DNS), allowing users to access the website.
+
+## 10. URL structure
+<img src="https://github.com/user-attachments/assets/f7550ae4-ef5e-481a-9776-f22e97cb92d9">
+
 DA & PA
 Spam Score
 Domain Rating
