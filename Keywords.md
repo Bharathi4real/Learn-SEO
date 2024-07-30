@@ -66,7 +66,9 @@ For example, “iphone” has a very high difficulty score. Because it’s extre
 [Learn more](https://www.semrush.com/blog/keyword-difficulty/#what-is-keyword-difficulty)
 
 ## 5. Keyword research
-Keyword research is the practice of identifying the words and phrases people use to find things via search engines like Google. Learning how to do keyword research is a fundamental SEO task. When you know what your audience searches for, you can focus the content you create around those topics.
+Keyword research is the practice of identifying the words and phrases people use to find things via search engines like Google.
+
+Learning how to do keyword research is a fundamental SEO task. When you know what your audience searches for, you can focus the content you create around those topics.
 
 Researching keywords gives SEOs, marketers, and organizations a better understanding of how high the demand is for certain keywords and how hard it would be to compete for those terms against competitors in the search results, offering some direction to optimization efforts.
 
