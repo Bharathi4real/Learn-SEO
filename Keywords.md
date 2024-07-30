@@ -126,3 +126,6 @@ Suppose the primary keyword is “artificial intelligence.” LSI keywords might
 Incorporating these LSI keywords into content can enhance its relevance and visibility in search engine results.
 
 Note: While LSI keywords are important for search engine optimization (SEO), it’s essential to use them naturally and contextually within content, avoiding keyword stuffing or manipulation.
+
+## 9. Keyword Ranking
+Keyword ranking refers to the position of a website or webpage in search engine results pages (SERPs) for a specific search query or keyword. A higher ranking indicates better visibility and increased chances of attracting organic traffic.
