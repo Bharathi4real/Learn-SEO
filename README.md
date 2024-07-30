@@ -1,3 +1,3 @@
 ## Know SEO
 
-[SEO Overview](./SEO_Overview.md)
+[SEO Overview](./learn-seo.md)
