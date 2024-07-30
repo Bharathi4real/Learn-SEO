@@ -49,7 +49,7 @@ Keyword cannibalization is an SEO issue that happens when multiple pages on a we
 
 The trick to finding real cannibalization issues is to look for pages that target the same keywords and fulfill the same or very similar intent.
 
-<img src="https://github.com/user-attachments/assets/a7cf39ec-e013-4ab7-bedf-981d45b0161a" alt="Description of image" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/a7cf39ec-e013-4ab7-bedf-981d45b0161a" alt="Description of image" width="500" height="500">
 
 [Learn more.](https://ahrefs.com/blog/keyword-cannibalization/#keyword-cannibalization-definition)
 
@@ -69,5 +69,19 @@ For example, “iphone” has a very high difficulty score. Because it’s extre
 Keyword research is the practice of identifying the words and phrases people use to find things via search engines like Google. Learning how to do keyword research is a fundamental SEO task. When you know what your audience searches for, you can focus the content you create around those topics. Researching keywords gives SEOs, marketers, and organizations a better understanding of how high the demand is for certain keywords and how hard it would be to compete for those terms against competitors in the search results, offering some direction to optimization efforts.
 
 [Learn more](https://moz.com/learn/seo/what-is-keyword-research)
+
 ## 6. Keyword stuffing
-## 7. KPI
+Keyword stuffing is a spammy SEO tactic that involves unnaturally forcing keywords into webpages. With the aim of ranking higher on the search engine results page.
+
+<img src= "https://github.com/user-attachments/assets/12f9e9c1-b119-432d-b182-2b4b5033ade9">
+
+[Learn more.](https://www.semrush.com/blog/keyword-stuffing/)
+
+## 7. Key Performance Indicators (KPIs)
+SEO KPIs (key performance indicators) are metrics used to measure the effectiveness of your SEO efforts. Some common SEO KPIs include organic visibility, keyword rankings, organic click-through rate (CTR), and conversions.
+
+Monitoring these KPIs helps stakeholders understand whether your SEO efforts are successful.
+
+<img src="https://github.com/user-attachments/assets/9d73ac47-fecb-4197-b7f4-f02f848711c9" width="500" height="500">
+
+[Learn more](https://www.semrush.com/blog/seo-kpis/#what-are-seo-kpis)
