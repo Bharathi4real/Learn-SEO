@@ -45,7 +45,19 @@ The different types of keywords in SEO,
 [Learn more.](https://localiq.com/blog/types-of-seo-keywords/)
 
 ## 2. Keyword cannibalization
+Keyword cannibalization is an SEO issue that happens when multiple pages on a website target the same or similar keywords. This leads to a situation where the site’s pages compete against each other for search engine rankings. This can dilute the website’s ability to rank effectively for targeted keywords.
+
+The trick to finding real cannibalization issues is to look for pages that target the same keywords and fulfill the same or very similar intent.
+
+<img src="https://github.com/user-attachments/assets/a7cf39ec-e013-4ab7-bedf-981d45b0161a" alt="Description of image" width="400" height="400">
+
+[Learn more.](https://ahrefs.com/blog/keyword-cannibalization/#keyword-cannibalization-definition)
+
 ## 3. Keyword density
+Keyword density refers to the number of times a keyword appears on a given webpage or within a piece of content as a ratio or percentage of the overall word count. This is also sometimes referred to as keyword frequency, or the frequency with which a specific keyword appears on a webpage.
+
+[Learn more.](https://www.wordstream.com/keyword-density)
+
 ## 4. Keyword difficulty
 ## 5. Keyword research
 ## 6. Keyword stuffing
