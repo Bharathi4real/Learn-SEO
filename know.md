@@ -164,11 +164,11 @@ A **Domain Name** is the text address of a website (e.g., www.example.com) that 
   - **Purpose**: Provides insight into the ranking potential of individual pages.
 
 ## 19. Spam Score
-A spam score measures the likelihood that an email or website will be flagged as spam. It's important to avoid a high spam score because it can lead to:
-- **Poor Email Deliverability**: Emails may end up in spam folders, reducing their effectiveness.
-- **Reputation Damage**: A high score can harm the sender's domain and IP reputation.
-- **Legal Risks**: Violating regulations like the CAN-SPAM Act can result in penalties.
-- **Negative User Experience**: Irrelevant emails can lead to unsubscribes and complaints.
+A spam score is a metric used to evaluate the likelihood that an email or website is considered spam by filters or algorithms. Different tools and email service providers may have their own methods for calculating spam scores, but they generally assess factors such as:
+
+- **Content**: The presence of certain keywords, phrases, or elements that are commonly associated with spam.
+- **Sender Reputation**: The reputation of the sender's domain and IP address, based on past behavior and user feedback.
+- **Technical Aspects**: The proper configuration of email authentication protocols (e.g., SPF, DKIM, DMARC), HTML structure, and more.
 
 Maintaining a low spam score is crucial for effective communication and maintaining a good reputation.
 
