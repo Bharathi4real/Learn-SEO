@@ -208,6 +208,10 @@ Organic search refers to unpaid search engine results that appear on a search en
 - Essential for search engine marketing (SEM) strategies
 
 ## 22. Direct Search
+Direct search in SEO refers to website traffic that originates from users typing the website’s URL directly into their browser or accessing it through a bookmark. This type of traffic is distinct from organic search traffic, which comes from search engines like Google, Bing, or Yahoo.
 
-- **Definition**: Visitors who access a site by typing its URL directly or using a bookmark.
-- **Purpose**: Reflects strong brand recognition or loyalty
+### Key Characteristics:
+
+- No Referral: Direct search traffic lacks a referring URL, as users are not clicking on a link from another website or search engine to access the site.
+- User Intent: Direct searchers typically have a specific intention to visit the website, such as returning to a frequently visited site or accessing a bookmarked page.
+- No Search Engine Influence: Direct search traffic is not influenced by search engine algorithms or rankings, as users are not searching for the website through a search engine.
