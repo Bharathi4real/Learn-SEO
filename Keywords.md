@@ -27,20 +27,15 @@ The different types of keywords in SEO,
      - **Long-Term Evergreen Keywords**: Consistent search volume over time. Example: "how to tie a tie"
      - **Seasonal Keywords**: Popular during specific times of the year. Example: "Christmas decorations"
 
-  - **Types of keywords by location:**
-     - **Geo-Targeted Keywords**: Include specific locations. Example: "best pizza in New York"
+- **Geo-Targeted Keywords**: Include specific locations. Example: "best pizza in New York"
 
-  - **Types of keywords by relevance:**
-     - **LSI (Latent Semantic Indexing) Keywords**: Semantically related to the main keyword. Example: "apple" (related: "fruit," "orchard")
+- **LSI (Latent Semantic Indexing) Keywords**: Semantically related to the main keyword. Example: "apple" (related: "fruit," "orchard")
 
-  - **Types of keywords by product:**
-     - **Product Keywords**: Specific products or services. Example: "MacBook Pro 16-inch"
+- **Product Keywords**: Specific products or services. Example: "MacBook Pro 16-inch"
 
-  - **Types of keywords by competition:**
-     - **Competitor Keywords**: Include competitors' brand names or products. Example: "Nike vs. Adidas"
+- **Competitor Keywords**: Include competitors' brand names or products. Example: "Nike vs. Adidas"
 
-  - **Types of keywords by customer:**
-     - **Customer-Defining Keywords**: Define a specific group of customers. Example: "running shoes for women"
+- **Customer-Defining Keywords**: Define a specific group of customers. Example: "running shoes for women"
 
 [Learn more.](https://localiq.com/blog/types-of-seo-keywords/)
 
