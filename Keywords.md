@@ -78,7 +78,13 @@ Keyword stuffing is a spammy SEO tactic that involves unnaturally forcing keywor
 [Learn more.](https://www.semrush.com/blog/keyword-stuffing/)
 
 ## 7. Key Performance Indicators (KPIs)
-SEO KPIs (key performance indicators) are metrics used to measure the effectiveness of your SEO efforts. Some common SEO KPIs include organic visibility, keyword rankings, organic click-through rate (CTR), and conversions.
+SEO KPIs (key performance indicators) are metrics used to measure the effectiveness of your SEO efforts. 
+
+Some common SEO KPIs include 
+- organic visibility
+- keyword rankings
+- organic click-through rate (CTR)
+- conversions.
 
 Monitoring these KPIs helps stakeholders understand whether your SEO efforts are successful.
 
