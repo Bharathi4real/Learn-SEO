@@ -168,15 +168,6 @@ This text address is translated into an IP address by the Domain Name System (DN
 - **Definition**: A metric developed by Ahrefs that measures the strength of a website’s backlink profile on a scale from 0 to 100.
 - **Purpose**: Indicates the authority and trustworthiness of a domain based on its backlink profile, helping gauge its potential to rank in search engines.
 
-## 21. **Crawling**
-- **Definition**: The process by which search engines use bots (crawlers or spiders) to discover and collect data from web pages.
-- **Purpose**: Allows search engines to index content and understand the structure and relevance of web pages.
-
-## 22. **Indexing**
-- **Definition**: The process of storing and organizing information collected during crawling into a search engine's database.
-- **Purpose**: Ensures that web pages are available to appear in search engine results, enabling users to find and access relevant content.
-
-Understanding these terms is crucial for effective SEO and improving your website’s visibility and authority.
 Organic Search
 Direct  Search
 Traffic
