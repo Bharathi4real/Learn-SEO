@@ -29,13 +29,13 @@ The different types of keywords in SEO,
 
 - **Geo-Targeted Keywords**: Include specific locations. Example: "best pizza in New York"
 
-- **LSI (Latent Semantic Indexing) Keywords**: Semantically related to the main keyword. Example: "apple" (related: "fruit," "orchard")
-
 - **Product Keywords**: Specific products or services. Example: "MacBook Pro 16-inch"
 
 - **Competitor Keywords**: Include competitors' brand names or products. Example: "Nike vs. Adidas"
 
 - **Customer-Defining Keywords**: Define a specific group of customers. Example: "running shoes for women"
+
+- **LSI (Latent Semantic Indexing) Keywords**: Semantically related to the main keyword. Example: "apple" (related: "fruit," "orchard")
 
 [Learn more.](https://localiq.com/blog/types-of-seo-keywords/)
 
