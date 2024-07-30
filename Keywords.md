@@ -51,6 +51,20 @@ The trick to finding real cannibalization issues is to look for pages that targe
 
 <img src="https://github.com/user-attachments/assets/a7cf39ec-e013-4ab7-bedf-981d45b0161a" alt="Description of image" width="500" height="500">
 
+Example:
+
+/blog/identify-and-tackle-keyword-cannibalisation-in-2019
+
+/blog/how-to-solve-keyword-cannibalization
+
+Here’s what they tell us about the pages:
+
+- They’re both blog posts.
+- They’re both about the same thing (i.e., tackling/solving keyword cannibalization).
+- The first one is outdated (it has “2019” in the URL).
+- So this is almost certainly a cannibalization issue. 
+- The pages fulfill the same intent and compete against each other. 
+
 [Learn more.](https://ahrefs.com/blog/keyword-cannibalization/#keyword-cannibalization-definition)
 
 ## 3. Keyword density
