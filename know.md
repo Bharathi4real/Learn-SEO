@@ -207,7 +207,7 @@ Organic search refers to unpaid search engine results that appear on a search en
 - Valid search engine optimization (SEO) efforts
 - Domain authority
 
-### Key Characteristics:
+### Characteristics:
 
 - Unpaid and free from advertising auctions
 - Based on algorithmic ranking factors
@@ -218,7 +218,7 @@ Organic search refers to unpaid search engine results that appear on a search en
 ## 22. Direct Search
 Direct search in SEO refers to website traffic that originates from users typing the website’s URL directly into their browser or accessing it through a bookmark. This type of traffic is distinct from organic search traffic, which comes from search engines like Google, Bing, or Yahoo.
 
-### Key Characteristics:
+### Characteristics:
 
 - **No Referral**: Direct search traffic lacks a referring URL, as users are not clicking on a link from another website or search engine to access the site.
 - **User Intent**: Direct searchers typically have a specific intention to visit the website, such as returning to a frequently visited site or accessing a bookmarked page.
