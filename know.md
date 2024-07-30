@@ -137,9 +137,9 @@ A **Domain Name** is the text address of a website (e.g., www.example.com) that 
 - **Purpose**: Prevents the transfer of link juice, often used for links in comments, paid ads, or untrusted sources.
 
 ## 15. Anchor Text
+Anchor text is the visible, clickable text in a hyperlink. In modern browsers, it is often blue and underlined, such as this link to the Moz homepage. In code, anchor text looks like this: <a href="moz.com">the Moz homepage</a> where the anchor text is Moz homepage.
 
-- **Definition**: The clickable text in a hyperlink.
-- **Purpose**: Provides context about the linked page and influences search engine rankings for the linked keywords.
+Anchor text gives context to the relationship between your page and the content you're linking to. As anchor text is the words that make up a link, it's often discussed in relation to internal linking and backlink strategies.
 
 ## 16. Backlinks
 
