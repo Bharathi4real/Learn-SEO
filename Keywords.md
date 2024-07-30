@@ -59,6 +59,12 @@ Keyword density refers to the number of times a keyword appears on a given webpa
 [Learn more.](https://www.wordstream.com/keyword-density)
 
 ## 4. Keyword difficulty
+Keyword difficulty (or SEO difficulty) is a metric that estimates how hard it is to earn a prominent, unpaid position for a given search engine query.
+
+For example, “iphone” has a very high difficulty score. Because it’s extremely challenging to outrank the highly relevant, high-quality search results from authoritative sites like Apple.
+
+[Learn more](https://www.semrush.com/blog/keyword-difficulty/#what-is-keyword-difficulty)
+
 ## 5. Keyword research
 ## 6. Keyword stuffing
 ## 7. KPI
