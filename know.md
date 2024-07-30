@@ -220,6 +220,6 @@ Direct search in SEO refers to website traffic that originates from users typing
 
 ### Key Characteristics:
 
-- No Referral: Direct search traffic lacks a referring URL, as users are not clicking on a link from another website or search engine to access the site.
-- User Intent: Direct searchers typically have a specific intention to visit the website, such as returning to a frequently visited site or accessing a bookmarked page.
-- No Search Engine Influence: Direct search traffic is not influenced by search engine algorithms or rankings, as users are not searching for the website through a search engine.
+- **No Referral**: Direct search traffic lacks a referring URL, as users are not clicking on a link from another website or search engine to access the site.
+- **User Intent**: Direct searchers typically have a specific intention to visit the website, such as returning to a frequently visited site or accessing a bookmarked page.
+- **No Search Engine Influence**: Direct search traffic is not influenced by search engine algorithms or rankings, as users are not searching for the website through a search engine.
