@@ -177,7 +177,7 @@ Keyword cannibalization is an SEO issue that happens when multiple pages on a we
 
 The trick to finding real cannibalization issues is to look for pages that target the same keywords and fulfill the same or very similar intent.
 
-![Keyword Cannibalization](https://github.com/user-attachments/assets/a7cf39ec-e013-4ab7-bedf-981d45b0161a)
+<img src="https://github.com/user-attachments/assets/a7cf39ec-e013-4ab7-bedf-981d45b0161a" width="500" height="500">
 
 Example:
 
@@ -218,7 +218,7 @@ Researching keywords gives SEOs, marketers, and organizations a better understan
 ## 21. Keyword Stuffing
 Keyword stuffing is a spammy SEO tactic that involves unnaturally forcing keywords into webpages with the aim of ranking higher on the search engine results page.
 
-![Keyword Stuffing](https://github.com/user-attachments/assets/12f9e9c1-b119-432d-b182-2b4b5033ade9)
+<img src="https://github.com/user-attachments/assets/12f9e9c1-b119-432d-b182-2b4b5033ade9" width="500" height="500">
 
 [Learn more.](https://www.semrush.com/blog/keyword-stuffing/)
 
@@ -233,7 +233,7 @@ Some common SEO KPIs include
 
 Monitoring these KPIs helps stakeholders understand whether your SEO efforts are successful.
 
-![SEO KPIs](https://github.com/user-attachments/assets/9d73ac47-fecb-4197-b7f4-f02f848711c9)
+<img src="https://github.com/user-attachments/assets/9d73ac47-fecb-4197-b7f4-f02f848711c9" width="500" height="500">
 
 [Learn more](https://www.semrush.com/blog/seo-kpis/#what-are-seo-kpis)
 
@@ -364,7 +364,7 @@ In SEO, a **niche** refers to a specialized segment of a larger market targeting
 
 The acronym **E-E-A-T** stands for Experience, Expertise, Authoritativeness, and Trustworthiness. 
 
-![E-E-A-T](https://github.com/user-attachments/assets/788fe85d-9d6a-4573-b3aa-25d3ced20d9a)
+<img src="https://github.com/user-attachments/assets/788fe85d-9d6a-4573-b3aa-25d3ced20d9a" width="500" height="500">
 
 Trust is the most critical component. Google states, “Because untrustworthy pages have low E-E-A-T no matter how Experienced, Expert, or Authoritative they may seem.”
 
@@ -378,8 +378,7 @@ A **Domain Name** is the text address of a website (e.g., www.example.com) that 
 
 ## 34. URL Structure
 
-![URL Structure](https://github.com/user-attachments/assets/f7550ae4-ef5e-481a-9776-f22e97cb92d9)
-
+<img src="https://github.com/user-attachments/assets/f7550ae4-ef5e-481a-9776-f22e97cb92d9" width="500" height="500">
 ## 35. Internal Link
 
 - **Definition**: A hyperlink that points to another page or resource within the same website.
