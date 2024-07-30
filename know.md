@@ -119,21 +119,64 @@ This text address is translated into an IP address by the Domain Name System (DN
 ## 10. URL structure
 <img src="https://github.com/user-attachments/assets/f7550ae4-ef5e-481a-9776-f22e97cb92d9">
 
-DA & PA
-Spam Score
-Domain Rating
+## 11. **Internal Link**
+- **Definition**: A hyperlink that points to another page or resource within the same website.
+- **Purpose**: Helps with site navigation, distributes page authority, and improves user experience.
 
-What is Crawling
-What is Indexing
+## 12. **External Link**
+- **Definition**: A hyperlink that directs users to a page on a different website.
+- **Purpose**: Can drive traffic to external sites, build credibility, and provide additional context or resources.
 
-Internal Link
-External link
-Dofollow Link
-Nofollow Link
-Anchor text
-Backlinks
-Link Building
+## 13. **Dofollow Link**
+- **Definition**: A hyperlink that allows search engines to follow it and pass on page authority (link juice) to the linked page.
+- **Purpose**: Contributes to the SEO value of the linked page and helps in ranking.
 
+## 14. **Nofollow Link**
+- **Definition**: A hyperlink with a rel="nofollow" attribute that tells search engines not to follow the link or pass on page authority.
+- **Purpose**: Prevents passing link juice, often used for links in comments, paid ads, or untrusted sources.
+
+## 15. **Anchor Text**
+- **Definition**: The clickable text in a hyperlink.
+- **Purpose**: Provides context about the linked page and influences search engine rankings for the linked keywords.
+
+## 16. **Backlinks**
+- **Definition**: Links from external websites pointing to your website.
+- **Purpose**: Enhances SEO by improving site authority and driving referral traffic. Quality backlinks from reputable sites are highly valuable.
+
+## 17. **Link Building**
+- **Definition**: The process of acquiring backlinks to your site from other websites.
+- **Purpose**: Improves search engine rankings, increases site authority, and drives referral traffic. Strategies include guest blogging, outreach, and content marketing.
+
+## 18. **DA & PA**
+
+### **Domain Authority (DA)**
+  - **Definition**: A metric developed by Moz that predicts how well a website will rank on search engine result pages (SERPs).
+  - **Scale**: Ranges from 1 to 100, with higher scores indicating a greater likelihood of ranking well.
+  - **Purpose**: Helps assess the overall strength and credibility of a website.
+
+### **Page Authority (PA)**
+  - **Definition**: A metric from Moz that predicts how well a specific page on a website will rank on search engines.
+  - **Scale**: Also ranges from 1 to 100, with higher scores suggesting a better chance of ranking for specific queries.
+  - **Purpose**: Provides insight into the ranking potential of individual pages.
+
+## 19. **Spam Score**
+- **Definition**: A metric developed by Moz that assesses the likelihood of a website being penalized or deemed spammy by search engines.
+- **Scale**: Ranges from 0 to 100%, with higher scores indicating a higher likelihood of spammy behavior.
+- **Purpose**: Helps evaluate the quality of a website's link profile and its risk of being associated with spammy practices.
+
+## 20. **Domain Rating (DR)**
+- **Definition**: A metric developed by Ahrefs that measures the strength of a website’s backlink profile on a scale from 0 to 100.
+- **Purpose**: Indicates the authority and trustworthiness of a domain based on its backlink profile, helping gauge its potential to rank in search engines.
+
+## 21. **Crawling**
+- **Definition**: The process by which search engines use bots (crawlers or spiders) to discover and collect data from web pages.
+- **Purpose**: Allows search engines to index content and understand the structure and relevance of web pages.
+
+## 22. **Indexing**
+- **Definition**: The process of storing and organizing information collected during crawling into a search engine's database.
+- **Purpose**: Ensures that web pages are available to appear in search engine results, enabling users to find and access relevant content.
+
+Understanding these terms is crucial for effective SEO and improving your website’s visibility and authority.
 Organic Search
 Direct  Search
 Traffic
