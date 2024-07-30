@@ -218,7 +218,7 @@ Researching keywords gives SEOs, marketers, and organizations a better understan
 ## 21. Keyword Stuffing
 Keyword stuffing is a spammy SEO tactic that involves unnaturally forcing keywords into webpages with the aim of ranking higher on the search engine results page.
 
-<img src="https://github.com/user-attachments/assets/12f9e9c1-b119-432d-b182-2b4b5033ade9" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/12f9e9c1-b119-432d-b182-2b4b5033ade9">
 
 [Learn more.](https://www.semrush.com/blog/keyword-stuffing/)
 
@@ -364,7 +364,7 @@ In SEO, a **niche** refers to a specialized segment of a larger market targeting
 
 The acronym **E-E-A-T** stands for Experience, Expertise, Authoritativeness, and Trustworthiness. 
 
-<img src="https://github.com/user-attachments/assets/788fe85d-9d6a-4573-b3aa-25d3ced20d9a" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/788fe85d-9d6a-4573-b3aa-25d3ced20d9a" width="600" height="400">
 
 Trust is the most critical component. Google states, “Because untrustworthy pages have low E-E-A-T no matter how Experienced, Expert, or Authoritative they may seem.”
 
@@ -378,7 +378,8 @@ A **Domain Name** is the text address of a website (e.g., www.example.com) that 
 
 ## 34. URL Structure
 
-<img src="https://github.com/user-attachments/assets/f7550ae4-ef5e-481a-9776-f22e97cb92d9" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/f7550ae4-ef5e-481a-9776-f22e97cb92d9">
+
 ## 35. Internal Link
 
 - **Definition**: A hyperlink that points to another page or resource within the same website.
