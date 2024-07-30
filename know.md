@@ -187,9 +187,17 @@ A **Domain Name** is the text address of a website (e.g., www.example.com) that 
 By maintaining a low Spam Score, you can enhance your site's SEO performance, build trust with your audience, and avoid penalties that could harm your online presence.
 
 ## 20. Domain Rating (DR)
+Domain Rating (DR) is a metric developed by Ahrefs to score the strength of a website’s backlink profile on a logarithmic scale from 1 to 100. It measures the quantity and quality of backlinks pointing to an entire domain, not a specific page.
 
-- **Definition**: An Ahrefs metric measuring the strength of a website’s backlink profile on a scale from 0 to 100.
-- **Purpose**: Indicates the authority and trustworthiness of a domain based on its backlink profile.
+### Calculation
+Ahrefs calculates DR by considering multiple Google ranking factors, including:
+
+- Referring domains
+- Linking domains
+- Domain age
+- Total number of links
+
+These factors are combined to produce a single DR score, which represents the relative strength of a website’s backlink profile.
 
 ## 21. Organic Search
 Organic search refers to unpaid search engine results that appear on a search engine results page (SERP), ranking based on factors such as:
