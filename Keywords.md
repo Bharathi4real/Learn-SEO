@@ -109,3 +109,25 @@ Monitoring these KPIs helps stakeholders understand whether your SEO efforts are
 <img src="https://github.com/user-attachments/assets/9d73ac47-fecb-4197-b7f4-f02f848711c9" width="500" height="500">
 
 [Learn more](https://www.semrush.com/blog/seo-kpis/#what-are-seo-kpis)
+
+## 8. LSI (Latent Semantic Indexing) keywords:
+LSI (Latent Semantic Indexing) keywords are terms or phrases semantically related to a primary keyword. They provide context and help search engines like Google understand the topic of a webpage by identifying concepts commonly associated with the main keyword.
+
+Key Characteristics:
+- Not always synonyms of the primary keyword
+- Related to the main keyword through semantic meaning
+- Help search engines understand the webpage’s topic and context
+- Can improve Google’s ability to index and rank content
+
+Example:
+
+Suppose the primary keyword is “artificial intelligence.” LSI keywords might include:
+- Machine learning
+- Neural networks
+- Natural language processing
+- Data analysis
+- Robotics
+
+Incorporating these LSI keywords into content can enhance its relevance and visibility in search engine results.
+
+Note: While LSI keywords are important for search engine optimization (SEO), it’s essential to use them naturally and contextually within content, avoiding keyword stuffing or manipulation.
