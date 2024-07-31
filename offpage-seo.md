@@ -133,10 +133,12 @@ Article Submission (AS) is the process of submitting written content to various 
 [Learn more.](https://seo.ai/faq/article-submission-as)
 
 ## 14. Yellowpages Submission
+Yellowpages Submission in SEO refers to the process of listing a business in a digital Yellow Pages directory, which is an online version of the traditional printed phone book. 
 
+This listing is not directly related to improving search engine rankings or driving organic traffic, as the SEO community does not consider paid directory listings, including Yellow Pages, as a significant factor in determining website rankings.
 
 ## 15. Answer Questions
-
+Answering questions in any platform for queries helps bulding client relationships and increases brand presence.
 
 ## 16. Local SEO
 Local SEO is the practice of optimizing a website for a specific local area to improve its visibility in search engine results pages (SERPs) for users searching for products or services within that area. 
