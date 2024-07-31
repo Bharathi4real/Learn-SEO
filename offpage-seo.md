@@ -38,6 +38,16 @@ It doesn’t matter if you’re responding to something on your blog or blog com
 
 
 ## 6. Business Listing
+NAP+W (Name, Address, Phone Number + Website) is the acronym that explains all the information that should be included in business listings.
+
+It provides the information customers need to have in order to research, contact and locate your business.
+
+Want to score some major bonus points? Include information like hours of operation in business listings. It’s what consumers are most interested in!
+
+### Business Listings To Help Your Local SEO
+- Google My Business
+- Facebook
+- Apple Maps
 
 ## 7. Web 2.0
 
