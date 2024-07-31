@@ -442,3 +442,7 @@ Direct search in SEO refers to website traffic that originates from users typing
 - **User Intent**: Direct searchers typically have a specific intention to visit the website, such as returning to a frequently visited site or accessing a bookmarked page.
 - **No Search Engine Influence**: Direct search traffic is not influenced by search engine algorithms or rankings, as users are not searching for the website through a search engine.
 
+## for more Refer
+1. https://www.javatpoint.com/seo-tutorial
+2. https://moz.com/beginners-guide-to-seo
+3. [Ahrefs Complete Seo Course for beginers](https://www.youtube.com/watch?v=xsVTqzratPs)
