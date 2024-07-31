@@ -13,11 +13,21 @@ There are mainly two methods for search engine submission.
 Thus, it improves your ranking in the search engine result pages.
 
 ## 2. Website Reviews
-## 3. Book Marking
+
+
+## 3. Social Bookmarking
+
+
 ## 4. Directory Submission
+
+
 ## 5. Blog Commenting
+
+
 ## 6. Business Listing
+
 ## 7. Web 2.0
+
 ## 8. Classifieds
 Classified submission is an off-page SEO technique used for online promotion of brands, products, and services. It involves posting advertisements on third-party channels, such as classified websites(ex: Olx, Qickr, etc.), with links and relevant details about the website and business being promoted.
 
@@ -35,10 +45,26 @@ Classified submission is an off-page SEO technique used for online promotion of 
 - SEO Techniques: Classified ads can be optimized with the latest SEO techniques, such as keyword optimization and meta descriptions.
 
 ## 9. Image Sharing
+
+
 ## 10. Video Sharing
+
+
 ## 11. Profile creation
+
+
 ## 12. Forum Submission
+
+
 ## 13. Article Submission
+
+
 ## 14. Yellowpages Submission
+
+
 ## 15. Answer Questions
+
+
 ## 16. Local SEO
+
+
