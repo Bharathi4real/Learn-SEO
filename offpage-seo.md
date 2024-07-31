@@ -77,10 +77,29 @@ Classified submission is an off-page SEO technique used for online promotion of 
 - SEO Techniques: Classified ads can be optimized with the latest SEO techniques, such as keyword optimization and meta descriptions.
 
 ## 9. Image Sharing
+SEO is done by improving the way search engines crawl your website, and gaining ranking points by having a performant, interesting website. It’s also done by getting other sources to link back at you, reference your website, and redirect traffic to you.
 
+Images speak more than words, in many cases. They can serve as commercial information, brand image elements, promotional materials,
+
+There are plenty of image sharing websites that are helpful for your SEO. 
+From social media platforms to websites providing stock photos, there are plenty of sites allowing you to post image content.
+
+Here are some of the most well-known examples:
+
+- Pinterest
+- Instagram
+- Twitter
 
 ## 10. Video Sharing
+Video sharing is an off-page SEO technique that involves uploading and sharing videos on various online platforms, such as video sharing sites, social media, and blogs, to increase brand awareness, drive traffic, and enhance search engine rankings. 
 
+This strategy leverages the power of video content to promote a website, product, or service, while also generating high-quality backlinks and improving website authority.
+
+Example:
+- YouTube
+- Facebook Watch
+- Instagram
+- Twitter
 
 ## 11. Profile creation
 
