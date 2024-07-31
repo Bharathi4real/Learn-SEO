@@ -1,14 +1,11 @@
-## 1. Search engine submission review
-Search engine submission is the process of notifying search engines about the presence of website content, 
-enabling the site to be included in their index and become searchable by the public. 
-This practice is crucial for new websites or pages seeking to ensure discoverability through search engines like Google, Bing, or Yahoo.
+## 1. Search Engine Submission
+Search engine submission is an off-page optimization strategy in which a website is directly submitted to a search engine for indexing and to get it listed in search engine listings. It is considered an initial step for website promotion or to get search engine traffic.
 
-### Key Points:
-- Manual Submission Still Relevant: Despite automated crawling, manual submission of websites remains relevant in specific scenarios:
-- New websites: Speed up indexing and visibility.
-- Website updates: Notify search engines of changes.
-- Specialized search engines: Targeted submissions for niche industries.
-- Quality Content and Sitemap: Prioritize high-quality, relevant content and create a comprehensive XML sitemap to facilitate efficient crawling and indexing.
-- Webmaster Tools: Utilize platforms like Google Search Console to monitor performance, identify issues, and submit sitemaps directly.
-- Algorithm Changes: Stay informed about algorithm updates to adapt SEO strategies and maintain optimal visibility.
-- Reputable Submission Sites: Research and select trustworthy submission sites to avoid potential negative impacts on SEO.
+There are mainly two methods for search engine submission. The first method allows you to submit one page at a time by using a webmaster tool like Google Webmaster Central or Bing Webmaster Tools. The second method allows you submit the entire site by submitting the homepage.
+
+### Search Engine Submission Benefits:
+- It allows you to inform search engines about your presence and the product or services offered by you.
+- You can get your webpages indexed in multiple search engines like Google, Yahoo and MSN.
+- It helps your site to be discovered quickly by web spiders and you don't need to wait for the web crawler to find it organically.
+- It is cost effective as you do not have to pay to get your site listed into search engines.
+Thus, it improves your ranking in the search engine result pages.
