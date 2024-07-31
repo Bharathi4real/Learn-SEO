@@ -50,6 +50,10 @@ Want to score some major bonus points? Include information like hours of operati
 - Apple Maps
 
 ## 7. Web 2.0
+Web 2.0 websites refer to user-generated content platforms that enable users to create, share, and interact with content. 
+Unlike the earlier static websites, Web 2.0 platforms facilitate dynamic engagement, allowing users to contribute to the content ecosystem. 
+
+[Learn more.](https://www.linkedin.com/pulse/what-web-20-websites-seo-explained-detail-shohayeb-ahmed/)
 
 ## 8. Classifieds
 Classified submission is an off-page SEO technique used for online promotion of brands, products, and services. It involves posting advertisements on third-party channels, such as classified websites(ex: Olx, Qickr, etc.), with links and relevant details about the website and business being promoted.
