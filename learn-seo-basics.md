@@ -442,7 +442,7 @@ Direct search in SEO refers to website traffic that originates from users typing
 - **User Intent**: Direct searchers typically have a specific intention to visit the website, such as returning to a frequently visited site or accessing a bookmarked page.
 - **No Search Engine Influence**: Direct search traffic is not influenced by search engine algorithms or rankings, as users are not searching for the website through a search engine.
 
-## 46. Search Engine Submission:
+## 46. Search Engine Submission (SES):
 Search engine submission is an off-page optimization strategy in which a website is directly submitted to a search engine for indexing and to get it listed in search engine listings. It is considered an initial step for website promotion or to get search engine traffic.
 
 There are mainly two methods for search engine submission. 
