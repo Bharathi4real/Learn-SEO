@@ -30,6 +30,11 @@ Directory Submission is a process of submitting your website URL to various web 
 [Learn more.](https://www.linkedin.com/pulse/what-directory-submission-how-helps-ranking-rahul-dass/)
 
 ## 5. Blog Commenting
+Blog commenting is a SEO strategy that involves leaving thoughtful and relevant comments on other blogs, typically including a link to your own website. When done correctly, it can enhance your online presence, establish relationships with fellow bloggers, and even improve your search engine rankings.
+
+The advantages of blog commenting include improved SEO through backlinks and referral traffic. Then there’s social proof. When you craft well-written comments that add value, it helps you cement your reputation as an authority.
+
+It doesn’t matter if you’re responding to something on your blog or blog commenting to boost your presence on someone else’s. It’s a valuable strategy for promoting yourself, and it works.
 
 
 ## 6. Business Listing
