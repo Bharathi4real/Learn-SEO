@@ -625,7 +625,9 @@ Local SEO involves optimizing various website elements, including:
 - Intent: The purpose behind a search query, which can be transactional, informational, navigational, or commercial.
 
 
-## for more Refer
+## Resources
 1. https://www.javatpoint.com/seo-tutorial
 2. https://moz.com/beginners-guide-to-seo
-3. [Ahrefs Complete Seo Course for beginers](https://www.youtube.com/watch?v=xsVTqzratPs)
+3. https://ahrefs.com/seo
+4. https://backlinko.com/seo-tutorial
+5. [Ahrefs Complete Seo Course for beginers](https://www.youtube.com/watch?v=xsVTqzratPs)
