@@ -53,6 +53,11 @@ Want to score some major bonus points? Include information like hours of operati
 Web 2.0 websites refer to user-generated content platforms that enable users to create, share, and interact with content. 
 Unlike the earlier static websites, Web 2.0 platforms facilitate dynamic engagement, allowing users to contribute to the content ecosystem. 
 
+- Social networking sites: Facebook, Instagram, Twitter, LinkedIn
+- Blogging platforms: Tumblr, WordPress, Blogger
+- Video sharing sites: YouTube, Vimeo
+- Image sharing sites: Flickr, Pinterest
+  
 [Learn more.](https://www.linkedin.com/pulse/what-web-20-websites-seo-explained-detail-shohayeb-ahmed/)
 
 ## 8. Classifieds
