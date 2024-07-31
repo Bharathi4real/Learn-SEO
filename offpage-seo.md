@@ -25,7 +25,9 @@ Bookmarking sites are online platforms where users save and share web pages, vid
 - Credibility: Participating in social bookmarking communities can establish your brand as an authority in your niche, leading to increased credibility and trust.
 
 ## 4. Directory Submission
+Directory Submission is a process of submitting your website URL to various web directories (websites) with the aim of building backlinks thus increasing business growth. This is the off-page SEO technique, used to generate outsider links for your website. While providing the directory submission website URL web-bloggers need to ensure that they follow directory submission guidelines.
 
+[Learn more.](https://www.linkedin.com/pulse/what-directory-submission-how-helps-ranking-rahul-dass/)
 
 ## 5. Blog Commenting
 
