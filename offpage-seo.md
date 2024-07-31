@@ -102,7 +102,14 @@ Example:
 - Twitter
 
 ## 11. Profile creation
+Profile creation in SEO refers to the process of creating a profile on various websites, platforms, or directories, and linking back to your website or online presence.
+This technique is used to earn high-quality backlinks, which can improve your website’s search engine ranking and drive traffic.
 
+Example:
+- YouTube
+- Facebook
+- Instagram
+- Twitter
 
 ## 12. Forum Submission
 
