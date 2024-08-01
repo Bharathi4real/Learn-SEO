@@ -1,17 +1,14 @@
-search engine submission websites:
-
-### Mainstream
-
-Here's the updated list formatted similarly to the previous entries:
+## Mainstream search engines
 
 1. **Google Search** - https://search.google.com/
 2. **Bing** - https://www.bing.com/
 3. **Yahoo** - https://search.yahoo.com/
-4. **Baidu** - https://www.baidu.com/
-5. **Yandex** - https://.yandex.com
-6. **DuckDuckGo** - https://duckduckgo.com/
+4. **DuckDuckGo** - https://duckduckgo.com/
+5. **Brave Search** - https://search.brave.com
 
-Here is the updated list of websites, combining the ones you provided with the previous list. New additions are marked:
+
+### search engine submission websites:
+### Working 
 
 1. **Web World Index** - https://www.webworldindex.com
 2. **Gain Web** - https://gainweb.org
