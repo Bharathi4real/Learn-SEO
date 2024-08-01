@@ -19,15 +19,13 @@ search engine submission websites:
 16. **[InfoSpace](https://www.infospace.com)**
 17. **[Excite](https://www.excite.com)**
 18. **[WebCrawler](https://www.webcrawler.com)**
+23. **[ExactSeek](https://www.exactseek.com/add.html)**
+24. **[WhatUSeek](https://www.whatuseek.com)**
 ---
 ### yet to check
 
-20. **[Business.com](https://www.business.com)**
-21. **[TheOpenDirectory](http://www.dmoztools.net)**
-22. **[Web-Search.com](http://www.web-search.com)**
-23. **[ExactSeek](https://www.exactseek.com/add.html)**
-24. **[WhatUSeek](https://www.whatuseek.com)**
-25. **[ScrubTheWeb](https://www.scrubtheweb.com)**
+
+
 26. **[Searchsight](https://www.searchsight.com)**
 27. **[Anzwers](https://www.anzwers.org)**
 28. **[GoArticles](http://www.goarticles.info)**
