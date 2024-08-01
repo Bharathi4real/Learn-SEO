@@ -1,19 +1,18 @@
 SEO website review and analysis submission sites:
+
+## works
+
 1. **[IP Address](https://www.ipaddress.com/)**
 2. **[MuStat](https://www.mustat.com/)**
-3. **[2Normal](https://2normal.com/)**
 4. **[MainKeys](https://mainkeys.net/)**
 5. **[BGP HE](https://bgp.he.net/)**
 6. **[SiteCheck Sucuri](https://sitecheck.sucuri.net/)**
 7. **[SEO Kicks](https://www.seokicks.de/)**
 8. **[MyIP.ms](https://myip.ms/info/)**
-9. **[W3Techs](https://w3techs.com/)**
 10. **[WebRankStats](http://whois.webrankstats.com/)**
 11. **[ShutKeys](http://shutkeys.net/)**
-12. **[DomainSigma](https://domainsigma.com/)**
 13. **[Who.is](https://who.is/whois/)**
 14. **[Whois365](https://www.whois365.com/)**
-15. **[IP Address](https://www.ipaddress.com/)**
 16. **[KeywordSpace](https://keywordspace.com/)**
 17. **[IsSiteDownRightNow](https://issitedownrightnow.com/)**
 18. **[SimplyWhois](https://www.simplywhois.com/)**
@@ -24,8 +23,14 @@ SEO website review and analysis submission sites:
 23. **[TheDomainFo](http://thedomainfo.com/)**
 24. **[InfoSiteShow](https://www.infositeshow.com/)**
 25. **[DomainIndex](https://domainindex.com/)**
-26. **[PNGHero](https://pnghero.com/)**
 27. **[DAWhois](https://dawhois.com/)**
+
+--- 
+## checking 
+
+
+
+
 28. **[W3C Validator](https://validator.w3.org/)**
 29. **[BuiltWith](https://builtwith.com/)**
 30. **[CuteStat](https://www.cutestat.com/)**
