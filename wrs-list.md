@@ -24,6 +24,15 @@ SEO website review and analysis submission sites:
 24. **[InfoSiteShow](https://www.infositeshow.com/)**
 25. **[DomainIndex](https://domainindex.com/)**
 27. **[DAWhois](https://dawhois.com/)**
+28. **[W3C Validator](https://validator.w3.org/)**
+29. **[BuiltWith](https://builtwith.com/)**
+30. **[CuteStat](https://www.cutestat.com/)**
+31. **[DomainTools](https://whois.domaintools.com/)**
+37. **[SpyFu](https://www.spyfu.com/)**
+
+
+
+
 
 --- 
 ## checking 
@@ -31,16 +40,6 @@ SEO website review and analysis submission sites:
 
 
 
-28. **[W3C Validator](https://validator.w3.org/)**
-29. **[BuiltWith](https://builtwith.com/)**
-30. **[CuteStat](https://www.cutestat.com/)**
-31. **[DomainTools](https://whois.domaintools.com/)**
-32. **[Alexa](https://www.alexa.com/siteinfo)**
-33. **[Majestic](https://majestic.com/)**
-34. **[Ahrefs](https://ahrefs.com/)**
-35. **[Moz](https://moz.com/)**
-36. **[Semrush](https://www.semrush.com/)**
-37. **[SpyFu](https://www.spyfu.com/)**
 38. **[SERPstat](https://serpstat.com/)**
 39. **[Ubersuggest](https://neilpatel.com/ubersuggest/)**
 40. **[KWFinder](https://kwfinder.com/)**
