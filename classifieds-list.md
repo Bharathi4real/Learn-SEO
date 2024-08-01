@@ -23,5 +23,4 @@
 | 17     | [http://www.clickooz.com/](http://www.clickooz.com/) | 27 |
 | 18     | [https://www.twarak.com/](https://www.twarak.com/) | 24|
 | 19     | [http://www.epageindia.com/](http://www.epageindia.com/) | 17|
-| 20     | [http://www.99localads.com/](http://www.99localads.com/) | 16 |
-| 21     | [https://www.adtrack.in/](https://www.adtrack.in/) | 15|
+| 20     | [https://www.adtrack.in/](https://www.adtrack.in/) | 15|
