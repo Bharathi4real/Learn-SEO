@@ -12,72 +12,37 @@
 
 ### Working 
 
-**AOL** - https://search.aol.com
-
-**Ask** - https://www.ask.com
-
-**Becovi** - https://search.becovi.com
-
-**Dogpile** - https://www.dogpile.com
-
-**Ecosia** - https://www.ecosia.org
-
-**Entireweb** - https://www.entireweb.com
-
-**ExactSeek** - https://www.exactseek.com/add.html
-
-**Excite** - https://results.excite.com
-
-**Gain Web** - https://gainweb.org
-
-**Gibiru** - https://gibiru.com
-
-**Goaflam** - https://www.goaflam.net
-
-**Illumirate** - http://www.illumirate.com
-
-**Info** - https://www.info.com
-
-**InfoSpace** - https://www.infospace.com
-
-**Link Centre** - https://linkcentre.com
-
-**Lukol** - https://www.lukol.com
-
-**Lycos** - https://www.lycos.com 
-
-**MetaGer** - https://metager.org
-
-**Metacrawler** - https://www.metacrawler.com
-
-**Mojeek** - https://www.mojeek.com
-
-**Naver** - https://search.naver.com
-
-**Pi Series** - https://www.piseries.com
-
-**Search.com** - https://www.search.com
-
-**Seznam** - https://search.seznam.cz
-
-**Submit Express** - https://www.submitexpress.com
-
-**Submit.biz** - https://www.submit.biz
-
-**Swisscows** - https://swisscows.com
-
-**Viesearch** - https://viesearch.com
-
-**Web Archive** - https://web.archive.org
-
-**Web World Index** - https://www.webworldindex.com
-
-**WebCrawler** - https://www.webcrawler.com
-
-**Websquash** - https://www.websquash.com
-
-**WhatUSeek** - https://www.whatuseek.com
-
-**Wolfram Alpha** - https://www.wolframalpha.com
-
-**Yep** - https://yep.com
+1. **AOL** - https://search.aol.com
+2. **Ask** - https://www.ask.com
+3. **Becovi** - https://search.becovi.com
+4. **Dogpile** - https://www.dogpile.com
+5. **Ecosia** - https://www.ecosia.org
+6. **Entireweb** - https://www.entireweb.com
+7. **ExactSeek** - https://www.exactseek.com/add.html
+8. **Excite** - https://results.excite.com
+9. **Gain Web** - https://gainweb.org
+10. **Gibiru** - https://gibiru.com
+11. **Goaflam** - https://www.goaflam.net
+12. **Illumirate** - http://www.illumirate.com
+13. **Info** - https://www.info.com
+14. **InfoSpace** - https://www.infospace.com
+15. **Link Centre** - https://linkcentre.com
+16. **Lukol** - https://www.lukol.com
+17. **Lycos** - https://www.lycos.com
+18. **MetaGer** - https://metager.org
+19. **Metacrawler** - https://www.metacrawler.com
+20. **Mojeek** - https://www.mojeek.com
+21. **Pi Series** - https://www.piseries.com
+22. **Search.com** - https://www.search.com
+23. **Seznam** - https://search.seznam.cz
+24. **Submit Express** - https://www.submitexpress.com
+25. **Submit.biz** - https://www.submit.biz
+26. **Swisscows** - https://swisscows.com
+27. **Viesearch** - https://viesearch.com
+28. **Web Archive** - https://web.archive.org
+29. **Web World Index** - https://www.webworldindex.com
+30. **WebCrawler** - https://www.webcrawler.com
+31. **Websquash** - https://www.websquash.com
+32. **WhatUSeek** - https://www.whatuseek.com
+33. **Wolfram Alpha** - https://www.wolframalpha.com
+34. **Yep** - https://yep.com
