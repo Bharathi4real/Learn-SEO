@@ -9,6 +9,40 @@ search engine submission websites:
 5. **[Yandex](https://webmaster.yandex.com/)**
 6. **[DuckDuckGo](https://duckduckgo.com/submit)**
 ---
+### Tested
+
+1. **Web World Index** - https://www.webworldindex.com
+2. **Gain Web** - https://gainweb.org
+3. **Illumirate** - http://www.illumirate.com
+4. **Viesearch** - https://viesearch.com
+5. **Link Centre** - https://linkcentre.com
+6. **Pi Series** - https://www.piseries.com
+7. **Lycos** - https://search.lycos.com
+8. **Web Archive** - https://web.archive.org
+9. **Naver** - https://search.naver.com
+10. **AOL** - https://search.aol.com
+11. **Wolfram Alpha** - https://www.wolframalpha.com
+12. **Ecosia** - https://www.ecosia.org
+13. **Brave Search** - https://search.brave.com
+14. **Seznam** - https://search.seznam.cz
+15. **Info** - https://www.info.com
+16. **DuckDuckGo** - https://duckduckgo.com
+17. **Dogpile** - https://www.dogpile.com
+18. **Excite** - https://results.excite.com
+19. **Metacrawler** - https://www.metacrawler.com
+20. **Mojeek** - https://www.mojeek.com
+21. **Swisscows** - https://swisscows.com
+22. **Yep** - https://yep.com
+23. **Gibiru** - https://gibiru.com
+24. **MetaGer** - https://metager.org
+25. **Lukol** - https://www.lukol.com
+26. **Becovi** - https://search.becovi.com
+27. **Info** - https://www.info.com
+28. **Websquash** - https://www.websquash.com
+29. **Submit.biz** - https://www.submit.biz
+30. **Submit Express** - https://www.submitexpress.com
+31. **Goaflam** - https://www.goaflam.net
+---
 ### Working
 
 7. **[Ask](https://www.ask.com/)**
@@ -23,18 +57,14 @@ search engine submission websites:
 24. **[WhatUSeek](https://www.whatuseek.com)**
 32. **[Search.com](https://www.search.com)**
 33. **[Viesearch](https://www.viesearch.com)**
+41. **[FreeWebSubmission](https://www.freewebsubmission.com)**
+42. **[MetaCrawler](https://www.metacrawler.com)**
 ---
 ### yet to check
-
-41. **[FreeWebSubmission](https://www.freewebsubmission.com)**
-42. **[Globalsearch](http://www.globalsearch.com)**
-43. **[Turbo10](http://www.turbo10.com)**
-44. **[Qango](http://www.qango.com)**
-45. **[StartSpot](http://www.startspot.com)**
 46. **[Abacho](https://www.abacho.com)**
 47. **[Just-Links](http://www.just-links.com)**
-48. **[Bot-Spot](http://www.botspot.com)**
-49. **[MetaCrawler](https://www.metacrawler.com)**
+
+49. 
 50. **[FastSearch](https://www.fastsearch.com)**
 51. **[W3Catalog](http://w3catalog.com)**
 52. **[Sitemap Writer](https://sitemapwriter.com)**
@@ -73,8 +103,7 @@ search engine submission websites:
 85. **[Yahoo Bookmarks](https://bookmarks.yahoo.com)**
 86. **[Technorati](http://technorati.com)**
 87. **[Folkd](http://www.folkd.com)**
-88. **[Slashdot](http://slashdot.org)**
-89. **[Slashdot](http://slashdot.org)**
+
 90. **[Startpage](https://www.startpage.com)**
 91. **[Locanto](https://www.locanto.com)**
 92. **[Search Engine Guide](http://www.searchengineguide.com)**
