@@ -30,7 +30,7 @@ SEO website review and analysis submission sites:
 26. **DomainTools** - [https://whois.domaintools.com/](https://whois.domaintools.com/)
 27. **SpyFu** - [https://www.spyfu.com/](https://www.spyfu.com/)
 28. **SERPstat** - [https://serpstat.com/](https://serpstat.com/)
-29. **Ubersuggest** - [https://neilpatel.com/ubersuggest/](https://neilpatel.com/ubersuggest/)
+29. **SiteWorthTraffic** - [http://www.siteworthtraffic.com/](http://www.siteworthtraffic.com/)
 30. **KWFinder** - [https://kwfinder.com/](https://kwfinder.com/)
 31. **SitePrice** - [https://siteprice.org/](https://siteprice.org/)
 32. **CheckPageRank** - [http://www.checkpagerank.net/](http://www.checkpagerank.net/)
@@ -38,4 +38,3 @@ SEO website review and analysis submission sites:
 34. **Website Informer** - [https://website.informer.com/](https://website.informer.com/)
 35. **Webuka** - [https://www.webuka.com/](https://www.webuka.com/)
 36. **DNSstuff** - [https://www.dnsstuff.com/](https://www.dnsstuff.com/)
-37. **SiteWorthTraffic** - [http://www.siteworthtraffic.com/](http://www.siteworthtraffic.com/)
