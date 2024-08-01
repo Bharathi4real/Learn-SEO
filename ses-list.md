@@ -1,24 +1,27 @@
 search engine submission websites:
 
+### Mainstream
+
 1. **[Google Search Console](https://search.google.com/search-console/about)**
 2. **[Bing Webmaster Tools](https://www.bing.com/webmasters)**
 3. **[Yahoo](https://search.yahoo.com/info/submit.html)**
 4. **[Baidu](https://www.baidu.com/search/url_submit.html)**
 5. **[Yandex](https://webmaster.yandex.com/)**
 6. **[DuckDuckGo](https://duckduckgo.com/submit)**
+---
+### Working
+
 7. **[Ask](https://www.ask.com/webmaster)**
 8. **[AOL](https://search.aol.com)**
-9. **[Exalead](https://www.exalead.com/search/web/)**
-10. **[Entireweb](https://www.entireweb.com/free_submission/)**
-11. **[Alltheweb](https://www.alltheweb.com)**
-12. **[AltaVista](https://www.altavista.com)**
-13. **[HotBot](https://www.hotbot.com)**
+9. **[Entireweb](https://www.entireweb.com/free_submission/)**
 14. **[Lycos](https://www.lycos.com)**
 15. **[Mamma](https://www.mamma.com)**
 16. **[InfoSpace](https://www.infospace.com)**
 17. **[Excite](https://www.excite.com)**
 18. **[WebCrawler](https://www.webcrawler.com)**
-19. **[Gigablast](https://www.gigablast.com)**
+---
+### yet to check
+
 20. **[Business.com](https://www.business.com)**
 21. **[TheOpenDirectory](http://www.dmoztools.net)**
 22. **[Web-Search.com](http://www.web-search.com)**
