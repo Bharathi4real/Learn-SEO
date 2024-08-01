@@ -1,5 +1,7 @@
 ##  Free Classified Submission Sites List in India 2024
 
+### yet to be verified
+
 | S. No. | Classified Submission Sites| Domain Authority (DA) |
 |--------|-----------------------------------------------------|-----------------------|
 | 01     | [https://geo.craigslist.org/iso/in](https://geo.craigslist.org/iso/in) | 89 |
