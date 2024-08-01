@@ -11,9 +11,9 @@ search engine submission websites:
 ---
 ### Working
 
-7. **[Ask](https://www.ask.com/webmaster)**
+7. **[Ask](https://www.ask.com/)**
 8. **[AOL](https://search.aol.com)**
-9. **[Entireweb](https://www.entireweb.com/free_submission/)**
+9. **[Entireweb](https://www.entireweb.com/)**
 14. **[Lycos](https://www.lycos.com)**
 15. **[Mamma](https://www.mamma.com)**
 16. **[InfoSpace](https://www.infospace.com)**
