@@ -24,13 +24,6 @@ search engine submission websites:
 ---
 ### yet to check
 
-
-
-26. **[Searchsight](https://www.searchsight.com)**
-27. **[Anzwers](https://www.anzwers.org)**
-28. **[GoArticles](http://www.goarticles.info)**
-29. **[Jubii](http://www.jubii.dk)**
-30. **[Clush](https://www.clush.com)**
 31. **[SearchUK](https://www.searchuk.com)**
 32. **[Search.com](https://www.search.com)**
 33. **[Searchengineindex](http://www.searchengineindex.com)**
