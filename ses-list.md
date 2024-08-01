@@ -22,16 +22,10 @@ search engine submission websites:
 23. **[ExactSeek](https://www.exactseek.com/add.html)**
 24. **[WhatUSeek](https://www.whatuseek.com)**
 32. **[Search.com](https://www.search.com)**
+33. **[Viesearch](https://www.viesearch.com)**
 ---
 ### yet to check
 
-34. **[SubmissionHub](http://www.submissionhub.com)**
-35. **[Viesearch](https://www.viesearch.com)**
-36. **[CyberColumn](http://www.cybercolumn.com)**
-37. **[ODP (Dmoz)](http://www.dmoz.org)**
-38. **[InfoTiger](http://www.infotiger.com)**
-39. **[Ilse](http://www.ilse.nl)**
-40. **[UKWizz](http://www.ukwizz.com)**
 41. **[FreeWebSubmission](https://www.freewebsubmission.com)**
 42. **[Globalsearch](http://www.globalsearch.com)**
 43. **[Turbo10](http://www.turbo10.com)**
