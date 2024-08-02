@@ -1,7 +1,5 @@
 ## SEO website review and analysis submission sites:
 
-### Verified
-
 1. **1Whois** - [https://1whois.ru/](https://1whois.ru/)
 2. **BuiltWith** - [https://builtwith.com/](https://builtwith.com/)
 3. **DAWhois** - [https://dawhois.com/](https://dawhois.com/)
