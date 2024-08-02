@@ -10,8 +10,6 @@
 
 ## Search Engine Submission Sites:
 
-### Verified
-
 1. **AOL** - [https://search.aol.com](https://search.aol.com)
 2. **Ask** - [https://www.ask.com](https://www.ask.com)
 3. **Becovi** - [https://search.becovi.com](https://search.becovi.com)
