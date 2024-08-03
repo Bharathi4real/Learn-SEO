@@ -13,24 +13,14 @@
 9. golocalclassified.com - https://www.golocalclassified.com
 10. thecityclassified.com - https://www.thecityclassified.com
 11. malayaliclassifieds.com - https://www.malayaliclassifieds.com
+12. adlandpro.com - https://www.adlandpro.com
+13. jobiba.com - https://www.jobiba.com
+14. click.in - https://www.click.in
+15. adolaa.net - https://www.adolaa.net
+16. digitalmarketingdeal.com - https://www.digitalmarketingdeal.com
+17. eventsking.com - https://www.eventsking.com
+18. adfreeposting.com - https://www.adfreeposting.com
+19. thefreeadforum.com - https://www.thefreeadforum.com
+20. globaladstorm.com - https://www.globaladstorm.com
 
----
-https://www.adlandpro.com
 
-https://www.jobiba.com
-
-https://www.click.in
-
-https://adolaa.net
-
-https://in.classi4u.com
-
-https://digitalmarketingdeal.com
-
-https://eventsking.com
-
-https://adfreeposting.com
-
-https://www.thefreeadforum.com
-
-https://www.globaladstorm.com
