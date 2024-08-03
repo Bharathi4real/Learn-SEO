@@ -18,64 +18,26 @@
 16. **WebRankStats** - [http://whois.webrankstats.com/](http://whois.webrankstats.com/)
 17. **Who.is** - [https://who.is/](https://who.is/)
 18. **Whois365** - [https://www.whois365.com/](https://www.whois365.com/)
-
-
-
-### needs sorting
-
-It looks like you want to scrape only the domain sites from the list provided. I'll identify and extract the domains from each URL. Here's a list of the domains from the URLs you've provided:
-
-1. **ipaddress.com**
-2. **dofo.com**
-3. **mustat.com**
-4. **2normal.com**
-5. **mainkeys.net**
-6. **onlinenoffline.com**
-7. **he.net**
-8. **seokicks.de**
-9. **myip.ms**
-10. **w3techs.com**
-11. **simplywhois.com**
-12. **issitedownrightnow.com**
-13. **keywordspace.com**
-14. **nosis.com**
-15. **ipaddress.com** (duplicate)
-16. **whois365.com**
-17. **who.is**
-18. **domainsigma.com**
-19. **shutkeys.net**
-20. **webrankstats.com**
-21. **domainindex.com**
-22. **ipaddress.com** (duplicate)
-23. **infositeshow.com**
-24. **thedomainfo.com**
-25. **cutestat.com**
-26. **push2check.net**
-27. **similarweb.com**
-28. **worthofweb.com**
-29. **stsoftware.biz**
-30. **whoissoft.com**
-31. **cutestat.com** (duplicate)
-32. **builtwith.com**
-33. **w3.org**
-34. **web.dev**
-35. **pnghost.com**
-36. **dawhois.com**
-37. **statscrop.com**
-38. **w3snoop.com**
-39. **statshow.com**
-
-For the second part, the domains are:
-
-1. **statshow.com** (duplicate)
-2. **pnghero.com**
-3. **mainkeys.net** (duplicate)
-4. **topalternate.com**
-5. **he.net** (duplicate)
-6. **seokicks.de** (duplicate)
-7. **ipaddress.com** (duplicate)
-8. **2normal.com** (duplicate)
-9. **whois365.com** (duplicate)
-10. **mustat.com** (duplicate)
-
-These are the domains extracted from the provided URLs.
+19. **2normal.com** - [https://2normal.com/](https://2normal.com/)
+20. **cutestat.com** - [https://cutestat.com/](https://cutestat.com/)
+21. **dofo.com** - [https://dofo.com/](https://dofo.com/)
+22. **he.net** - [https://he.net/](https://he.net/)
+23. **infositeshow.com** - [https://www.infositeshow.com/](https://www.infositeshow.com/)
+24. **keywordspace.com** - [https://keywordspace.com/](https://keywordspace.com/)
+25. **mainkeys.net** - [https://mainkeys.net/](https://mainkeys.net/)
+26. **mustat.com** - [https://mustat.com/](https://mustat.com/)
+27. **myip.ms** - [https://myip.ms/](https://myip.ms/)
+28. **nosis.com** - [https://nosis.com/](https://nosis.com/)
+29. **onlinenoffline.com** - [https://onlinenoffline.com/](https://onlinenoffline.com/)
+30. **pnghero.com** - [https://pnghero.com/](https://pnghero.com/)
+31. **push2check.net** - [https://push2check.net/](https://push2check.net/)
+32. **seokicks.de** - [https://www.seokicks.de/](https://www.seokicks.de/)
+33. **shutkeys.net** - [https://shutkeys.net/](https://shutkeys.net/)
+34. **similarweb.com** - [https://www.similarweb.com/](https://www.similarweb.com/)
+35. **stsoftware.biz** - [https://stsoftware.biz/](https://stsoftware.biz/)
+36. **topalternate.com** - [https://topalternate.com/](https://topalternate.com/)
+37. **webrankstats.com** - [https://webrankstats.com/](https://webrankstats.com/)
+38. **w3.org** - [https://w3.org/](https://w3.org/)
+39. **web.dev** - [https://web.dev/](https://web.dev/)
+40. **worthofweb.com** - [https://www.worthofweb.com/](https://www.worthofweb.com/)
+41. **w3snoop.com** - [https://w3snoop.com/](https://w3snoop.com/)
