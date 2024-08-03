@@ -30,3 +30,23 @@ Here's the list formatted as a markdown table:
 
 
 
+### yet to be Verified
+
+1. in.classi4u.com
+2. qwikad.com
+3. www.adsthumb.com
+4. unolist.in
+5. www.expatriates.com
+6. www.locanto.me
+7. www.thecityclassified.com
+8. salexy.in
+9. www.classifiedsguru.in
+10. www.thefreeadforum.com
+11. www.adlandpro.com
+12. quickfinds.in
+13. www.click.in
+14. adolaa.net
+15. digitalmarketingdeal.com
+16. www.globaladstorm.com
+17. adfreeposting.com	
+
