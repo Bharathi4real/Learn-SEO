@@ -14,3 +14,23 @@
 10. thecityclassified.com - https://www.thecityclassified.com
 11. malayaliclassifieds.com - https://www.malayaliclassifieds.com
 
+---
+https://www.adlandpro.com
+
+https://www.jobiba.com
+
+https://www.click.in
+
+https://adolaa.net
+
+https://in.classi4u.com
+
+https://digitalmarketingdeal.com
+
+https://eventsking.com
+
+https://adfreeposting.com
+
+https://www.thefreeadforum.com
+
+https://www.globaladstorm.com
