@@ -8,8 +8,9 @@
 - [WRS List](./wrs-list.md)
 
 
-before working check for 
-- gtm
-- canonical
-- schema 
+ #### Check before working on a project 
 
+1. gtm.js (google tag manager script file)
+2. Metatags 
+3. Canonical
+4. Schema
