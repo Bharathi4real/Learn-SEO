@@ -1,5 +1,3 @@
-## Know SEO
-
 ## [Off-Page SEO](./off-page-seo.md)
 
 - [Blogging List](./blogging-list.md)
