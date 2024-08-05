@@ -6,3 +6,10 @@
 - [Learn SEO Basics](./learn-seo-basics.md)
 - [SES List](./ses-list.md)
 - [WRS List](./wrs-list.md)
+
+
+before working check for 
+- gtm
+- canonical
+- schema 
+
