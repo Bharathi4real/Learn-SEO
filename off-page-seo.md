@@ -7,3 +7,9 @@ off pages seo followed here
 - 3rd party site blogging (blogging)
 4. classifieds
 5. QnA - Forums
+
+
+Check before working on a project 
+1.gtm
+2.metatags 
+3.?
