@@ -51,3 +51,26 @@
 | 47     | [salexy.in](http://salexy.in) | 17 |
 | 48     | [classifiedsguru.in](http://www.classifiedsguru.in) | 57 |
 | 49     | [quickfinds.in](http://quickfinds.in) | 35 |
+
+
+
+
+----
+
+
+
+https://pinda.in/	
+
+https://www.bharatibiz.com/	
+
+https://in.classi4u.com/bangalore/	
+
+https://adsolist.com/	
+
+https://classifiedz.in/	
+
+http://www.bhartiads.com/	
+
+https://www.princeclassified.com/	
+
+https://lookad.in/	
