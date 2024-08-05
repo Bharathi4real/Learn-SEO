@@ -3,7 +3,7 @@
 3.
 ---------------------------------
 
-Here are the domains as clickable URLs:
+QnA sites:
 
 1. [answeree.com](https://www.answeree.com)
 2. [outdoors.codidact.com](https://outdoors.codidact.com)
