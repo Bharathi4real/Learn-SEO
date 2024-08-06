@@ -624,6 +624,9 @@ Local SEO involves optimizing various website elements, including:
 - Keyword difficulty: A measure of how challenging it is to rank for a specific keyword or phrase.
 - Intent: The purpose behind a search query, which can be transactional, informational, navigational, or commercial.
 
+## 61. Buisness Listing
+A business listing in SEO refers to an online entry or profile that provides essential information about a business. This includes details such as the business name, address, phone number, website, hours of operation, and other relevant information. These listings are crucial for improving a business's local SEO and online presence. They can appear on various platforms, such as Google My Business, Yelp, Bing Places, and industry-specific directories.
+
 
 ## Resources
 1. https://www.javatpoint.com/seo-tutorial
