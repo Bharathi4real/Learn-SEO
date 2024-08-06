@@ -1,6 +1,39 @@
 1. medium 
 2. blogger
-3.
+
+
+https://www.goodreads.com/
+
+https://www.livejournal.com/
+
+https://www.deviantart.com/
+
+https://wordpress.com/me/
+
+https://www.blogger.com/
+
+https://www.yola.com/
+
+https://medium.com/
+
+https://pub14.bravenet.com/
+
+https://www.tumblr.com/
+
+https://www.pearltrees.com/
+
+https://www.diigo.com/
+
+https://medium.com/
+
+https://www.strikingly.com/
+
+https://www.storeboard.com/
+
+https://www.instapaper.com/
+
+https://www.reddit.com
+
 ---------------------------------
 
 QnA sites:
